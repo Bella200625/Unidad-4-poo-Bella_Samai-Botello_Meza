@@ -4,6 +4,7 @@
  */
 package unidad.pkg4.poo.bellasamaibotellomeza.Taller3;
 import unidad.pkg4.poo.bellasamaibotellomeza.Taller3.Ejercicios.Matematicas;
+import unidad.pkg4.poo.bellasamaibotellomeza.Taller3.Ejercicios.*;
 /**
  *
  * @author mezab
@@ -25,6 +26,9 @@ public class PBmatematicas {
         System.out.println("El resultado de la multiplicacion entre 8 y 2 es: " + resultadoMultiplicacion);
         System.out.println("El resultado de la divicion entre 8 y 2 es: " + resultadoDivicion);
         
+        //prueba de el ejercicio 3 
+        Ejercicio3.mM();
     }
+    
     
 }
