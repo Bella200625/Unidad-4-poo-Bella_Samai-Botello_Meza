@@ -18,7 +18,7 @@ public class Clase {
     }
     /*
     Aqui se intenta utilizar this en un metodo static, lo cual no es valido
-    ya que this se refiere a una instancia de la case y los metodos
+    ya que this se refiere a una instancia de la clase y los metodos
     static no dependen de instancias.
     */
     
