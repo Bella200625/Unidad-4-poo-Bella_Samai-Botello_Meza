@@ -22,7 +22,11 @@ public class PBcoche {
         */
         
         
-        
+        //Para el ejercicio 3 se nos pide lo mismo que hicimos en el ejercicio dos
+        //Pero hay que explicar que, en la proteccion de datos, es muy importante
+        //el tener los atributos en private para que cualquier clase no acceda con 
+        //facilidad a ellos, esto se tiene que tener en cuenta cuando son 
+        //datos muy sensibles y privados.
         
         
     }
