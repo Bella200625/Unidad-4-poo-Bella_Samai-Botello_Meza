@@ -27,7 +27,7 @@ public class Producto {
         this.nombre = nombre;
         this.cantidad = cantidad;
         this.precioUnidad = precioUnidad;
-        this.precioFinal = 0;
+        precioFinal = 0;
         this.calidad = calidad;
         this.marca = marca;
         this.fechaFabricacion = fechaFabricacion;

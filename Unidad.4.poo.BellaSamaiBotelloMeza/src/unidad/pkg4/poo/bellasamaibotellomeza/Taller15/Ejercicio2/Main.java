@@ -17,6 +17,7 @@ public class Main {
         
         Producto producto = new Producto(1, "Sueter", 4, 25000, "Media", "Lik", "08/07/25");
         Producto producto2 = new Producto(2, "Camisa", 1, 250000, "Alta", "pop", "08/07/25");
+        
         CalculosPrecios.calcularPrecio(producto);
         Etiqueta.etiqueta(producto);
         System.out.println("------------/////----------/////-------------");
